@@ -46,16 +46,5 @@ The project consists of several key components:
 - React
 - React Router
 - CSS
-- Mock API
+  
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or suggestions, feel free to contact me at abelartur.mail@gmail.com or on [GitHub](https://github.com/yourusername).
-
----
-
-Happy coding!
