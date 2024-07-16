@@ -1,0 +1,14 @@
+.candidates-section {
+  width: 100%;
+  height: 80rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  z-index: 1;
+}
+
+.candidates-container {
+  display: flex;
+  gap: 2rem;
+}
